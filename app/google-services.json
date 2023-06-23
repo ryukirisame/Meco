@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606569908690",
+    "project_id": "meco-18886",
+    "storage_bucket": "meco-18886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606569908690:android:fdbfd9604d798daca1200b",
+        "android_client_info": {
+          "package_name": "com.example.meco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606569908690-0f0s5gbh7lqggs9mr8m67sjp7ff0e6m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meco",
+            "certificate_hash": "18a3d06b97805d937ec6c1d30c8ea42083ac70bb"
+          }
+        },
+        {
+          "client_id": "606569908690-v2q44i9qih87u6vqt7stkkjbprguge1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2Lk9hxrOHYUMdAeFvcBnHKfz-IeNuhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606569908690-v2q44i9qih87u6vqt7stkkjbprguge1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

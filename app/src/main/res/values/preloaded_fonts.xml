@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/mulish</item>
+        <item>@font/mulish_black</item>
+        <item>@font/mulish_bold</item>
+        <item>@font/mulish_extrabold</item>
+        <item>@font/mulish_medium</item>
+        <item>@font/mulish_semibold</item>
+        <item>@font/nunito_bold</item>
+        <item>@font/nunito_sans</item>
+        <item>@font/nunito_sans_bold</item>
+        <item>@font/nunito_sans_extrabold</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_extrabold</item>
+        <item>@font/raleway_extrabold</item>
+    </array>
+</resources>
